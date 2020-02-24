@@ -51,4 +51,16 @@
 .card-footer{
     background-color: white;
     border-top: none;
-};
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
+.subscribe{
+    height: 300px;
+}
+.submit{
+    margin-top: 2%;
+}
